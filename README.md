@@ -4,7 +4,7 @@
 
 <div>
 <p float="center">
-  <img src="images/1.png" width="350" />
+  <img src="images/1.png" width="400" />
 </p>
 </div>
 
@@ -15,9 +15,9 @@
 
 <div>
 <p float="left">
-  <img src="images/2.png" width="300" />
-  <img src="images/3.png" width="300" />
-  <img src="images/4.png" width="300" />
+  <img src="images/2.png" width="450" />
+  <img src="images/3.png" width="450" />
+  <img src="images/4.png" width="450" />
 </p>
 </div>
 
