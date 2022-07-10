@@ -25,7 +25,7 @@
 
 <div>
 <p float="center">
-  <img src="images/5.png" width="300" />
+  <img src="images/5.png" width="350" />
 </p>
 </div>
 
